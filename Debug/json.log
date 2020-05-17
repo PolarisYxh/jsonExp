@@ -1,0 +1,20 @@
+﻿main.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __thiscall osg::Matrixd::Matrixd(void)" (__imp_??0Matrixd@osg@@QAE@XZ)，该符号在函数 "public: __thiscall modeldata::modeldata(void)" (??0modeldata@@QAE@XZ) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __thiscall osg::Matrixd::~Matrixd(void)" (__imp_??1Matrixd@osg@@QAE@XZ)，该符号在函数 "public: __thiscall modeldata::modeldata(void)" (??0modeldata@@QAE@XZ) 中被引用
+D:\my\sunxun\osg3.4.1\OpenSceneGraph\build3.4.0\lib\osgViewerd.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\my\sunxun\osg3.4.1\OpenSceneGraph\build3.4.0\lib\osgDBd.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\my\sunxun\osg3.4.1\OpenSceneGraph\build3.4.0\lib\osgd.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\my\sunxun\osg3.4.1\OpenSceneGraph\build3.4.0\lib\OpenThreadsd.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\my\sunxun\osg3.4.1\OpenSceneGraph\build3.4.0\lib\osgGAd.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\my\sunxun\osg3.4.1\OpenSceneGraph\build3.4.0\lib\osgWidgetd.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\my\sunxun\osg3.4.1\OpenSceneGraph\build3.4.0\lib\osgAnimationd.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\my\sunxun\osg3.4.1\OpenSceneGraph\build3.4.0\lib\osgFXd.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\my\sunxun\osg3.4.1\OpenSceneGraph\build3.4.0\lib\osgManipulatord.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\my\sunxun\osg3.4.1\OpenSceneGraph\build3.4.0\lib\osgParticled.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\my\sunxun\osg3.4.1\OpenSceneGraph\build3.4.0\lib\osgPresentationd.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\my\sunxun\osg3.4.1\OpenSceneGraph\build3.4.0\lib\osgShadowd.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\my\sunxun\osg3.4.1\OpenSceneGraph\build3.4.0\lib\osgSimd.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\my\sunxun\osg3.4.1\OpenSceneGraph\build3.4.0\lib\osgTerraind.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\my\sunxun\osg3.4.1\OpenSceneGraph\build3.4.0\lib\osgTextd.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\my\sunxun\osg3.4.1\OpenSceneGraph\build3.4.0\lib\osgUtild.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\my\sunxun\osg3.4.1\OpenSceneGraph\build3.4.0\lib\osgVolumed.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\my\sunxun\json\Debug\json.exe : fatal error LNK1120: 2 个无法解析的外部命令

@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: “APIENTRY”: 宏重定义
+D:\my\sunxun\osg3.4.1\OpenSceneGraph\build3.4.0\include\osg\GL(49): message : 参见“APIENTRY”的前一个定义
+D:\my\sunxun\json\main.cpp(25,30): warning C4552: ”>>“: 未使用表达式结果
+  json.vcxproj -> D:\my\sunxun\json\x64\Debug\json.exe
